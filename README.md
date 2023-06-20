@@ -14,4 +14,9 @@
 - 👯   Курс "Data Learn" Дмитрий Аношин
 - 📫   Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ZlenkoIrina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xzlenkox132).[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rinochka132@gmail.com)
 - ⚡ 
--->
+
+---
+
+### 🤝 Социальные сети:
+
+    
