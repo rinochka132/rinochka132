@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**rinochka132/rinochka132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, меня зовут Ирина! :wave: 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### :red_haired_woman: Обо мне:
+
+Я начинающий начинающий АНАЛИТИК ДАННЫХ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с Финансово-промышленного университет "Синергия" , где я прошела курс "Аналитик данных". После проходжения курса мой интерес к Аналитике возрос и я начала углублять свои знания. 
+
+---
+
+- 🔭   Прошла курс "Аналитик данных"
+- 🌱   "Симулятор SQL" Анатолий Карпов
+- 👯   Курс "Data Learn" Дмитрий Аношин
+- 📫   Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ZlenkoIrina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xzlenkox132).
+- ⚡ 
 -->
